@@ -1,5 +1,4 @@
 # Simple Code Compiler 
-# By Brandon S. Chin
 
 Written in C++, **Simple Code Compiler** uses a recursive descent parser and lexical analyzer to parse and interpret a basic language.
 Within this repository, there are also example testcases located in the _testcases_ folder with the expected output of each testcase located in the _expected outputs_ folder.
@@ -39,3 +38,7 @@ The following parts of this project were provided entirely or partially as a sta
 * tree.h
 * value.h
 * All testcases and expected outputs
+
+
+## Contact
+This project was made by me, [Brandon Chin](https://www.linkedin.com/in/brandon-chin-b95a0b1b1). Contact me through my [email](mailto:bchin08@gmail.com).
